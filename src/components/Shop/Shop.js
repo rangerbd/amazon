@@ -6,7 +6,14 @@ const Shop = () => {
     return (
         <div>
             <h1>this is shop</h1>
+            <h2> 
+                {
+                    products.map
+                }
+            </h2>
         </div>
+
+      
     );
 };
 
